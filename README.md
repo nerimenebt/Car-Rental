@@ -10,4 +10,8 @@ Hello there, I'm Neri and in this repository, I'll be posting the code for the C
     
 I hope you'll learn something new and use this concept to achieve great effects for your apps.
 
+#### Car Rental
+
+![CarRental](https://github.com/nerimenebt/Car-Rental/blob/main/car.gif)
+
 Liked the project? Just give it a star ⭐️ and spread the word!
